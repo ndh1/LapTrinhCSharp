@@ -1,0 +1,6 @@
+/Users/nguyendinhhuong/Desktop/LaptrinhC#/Bai3_Nhapxuatcoban/Bai3_Nhapxuatcoban/bin/Debug/Bai3_Nhapxuatcoban.exe
+/Users/nguyendinhhuong/Desktop/LaptrinhC#/Bai3_Nhapxuatcoban/Bai3_Nhapxuatcoban/bin/Debug/Bai3_Nhapxuatcoban.pdb
+/Users/nguyendinhhuong/Desktop/LaptrinhC#/Bai3_Nhapxuatcoban/Bai3_Nhapxuatcoban/obj/Debug/Bai3_Nhapxuatcoban.csproj.CoreCompileInputs.cache
+/Users/nguyendinhhuong/Desktop/LaptrinhC#/Bai3_Nhapxuatcoban/Bai3_Nhapxuatcoban/obj/Debug/Bai3_Nhapxuatcoban.exe
+/Users/nguyendinhhuong/Desktop/LaptrinhC#/Bai3_Nhapxuatcoban/Bai3_Nhapxuatcoban/obj/Debug/Bai3_Nhapxuatcoban.pdb
+/Users/nguyendinhhuong/Desktop/LaptrinhC#/Bai3_Nhapxuatcoban/Bai3_Nhapxuatcoban/obj/Debug/Bai3_Nhapxuatcoban.csproj.AssemblyReference.cache
