@@ -1,0 +1,6 @@
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai2_Class/HDT_Bai2_Class/obj/Debug/HDT_Bai2_Class.csproj.AssemblyReference.cache
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai2_Class/HDT_Bai2_Class/obj/Debug/HDT_Bai2_Class.csproj.CoreCompileInputs.cache
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai2_Class/HDT_Bai2_Class/bin/Debug/HDT_Bai2_Class.exe
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai2_Class/HDT_Bai2_Class/bin/Debug/HDT_Bai2_Class.pdb
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai2_Class/HDT_Bai2_Class/obj/Debug/HDT_Bai2_Class.exe
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai2_Class/HDT_Bai2_Class/obj/Debug/HDT_Bai2_Class.pdb
