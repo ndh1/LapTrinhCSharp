@@ -45,6 +45,16 @@ namespace HDT_Bai2_Class
             get { return diemhoa; }
             set { diemhoa = value; }
         }
+        public static int Count = 0;
+        public sinhvien() {
+            Masv = 0;
+            Ten = "null";
+            Diemtoan = 0;
+            Diemly = 0;
+            Diemhoa = 0;
+            Count++;
+        }
+        
 
     }
     class MainClass
@@ -55,16 +65,22 @@ namespace HDT_Bai2_Class
             dog.CanNang = 50;
             dog.ChieuCao = 500;
             dog.Info();
-
+            Console.WriteLine("So sinh vien hien tai {0}", sinhvien.Count);
             sinhvien sv1 = new sinhvien();
+            Console.WriteLine("So sinh vien hien tai {0}", sinhvien.Count);
             sinhvien sv2 = new sinhvien();
+            Console.WriteLine("So sinh vien hien tai {0}", sinhvien.Count);
+            sinhvien sv3 = new sinhvien();
+            Console.WriteLine("So sinh vien hien tai {0}", sinhvien.Count);
             sv1.Masv = 1700015;
             sv1.Ten = "Huong";
             sv1.Diemtoan = 10;
             sv2.Diemtoan = 11;
             Console.WriteLine("Ma so sinh vien : {0}", sv1.Masv);
+
             Console.WriteLine("Diemtoan : {0}", sv1.Diemtoan);
             Console.WriteLine("Diemtoan : {0}", sv2.Diemtoan);
+            Console.WriteLine("Diemtoan : {0}", sv3.Diemtoan);
         }
     }
 }
