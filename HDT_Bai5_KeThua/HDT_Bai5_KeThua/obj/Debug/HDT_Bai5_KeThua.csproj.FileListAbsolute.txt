@@ -1,0 +1,6 @@
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai5_KeThua/HDT_Bai5_KeThua/bin/Debug/HDT_Bai5_KeThua.exe
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai5_KeThua/HDT_Bai5_KeThua/bin/Debug/HDT_Bai5_KeThua.pdb
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai5_KeThua/HDT_Bai5_KeThua/obj/Debug/HDT_Bai5_KeThua.csproj.AssemblyReference.cache
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai5_KeThua/HDT_Bai5_KeThua/obj/Debug/HDT_Bai5_KeThua.csproj.CoreCompileInputs.cache
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai5_KeThua/HDT_Bai5_KeThua/obj/Debug/HDT_Bai5_KeThua.exe
+/Users/nguyendinhhuong/Desktop/LapTrinhCSharp/HDT_Bai5_KeThua/HDT_Bai5_KeThua/obj/Debug/HDT_Bai5_KeThua.pdb

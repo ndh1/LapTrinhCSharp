@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BD2F31F9-E70F-4CFB-B460-9E97FAE00859}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HDT_Bai5_KeThua/Program.cs">
+    <Files>
+      <File FileName="HDT_Bai5_KeThua/Program.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HDT_Bai5_KeThua" expanded="True">
+            <Node name="HDT_Bai5_KeThua" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HDT__Bai5__KeThua FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
